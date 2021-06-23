@@ -1,0 +1,10 @@
+% Modelo de Temperatura
+% Alexander Martinez Cisneros
+% Fecha 23 de Junio del 2021
+
+clc 
+clear
+c=(-40:-40);
+a=(20:52);
+b=(68:100);
+plot (c,a,b)
